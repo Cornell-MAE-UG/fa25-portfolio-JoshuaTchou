@@ -1,8 +1,10 @@
 ---
 layout: project
-title: Statics HW 5
-description: HW 4
-image: /assets/Statics-HW-4.jpg
+title: Statics
+description: Statics portfolio submission
 ---
 
-This is my submission to ENGRD 2020: HW 5, which is a screenshot of a problem from HW 4.
+![image](assets/Statics-HW-5.jpg)
+
+![image2](assets/Statics-HW-12-portfolio.jpg)
+
