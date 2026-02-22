@@ -74,9 +74,6 @@ Focus on questions they can answer from lived experience.
 2. How much labor would be available for maintaining this product?
 
 
-# Optional page 2 — References and/or one figure
-
-
 ## References
 
 
