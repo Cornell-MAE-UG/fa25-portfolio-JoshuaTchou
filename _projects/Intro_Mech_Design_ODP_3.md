@@ -23,7 +23,16 @@ header-includes:
   - \pagenumbering{gobble}
 -->
 
+* Table of Contents
+{:toc}
 
+---
+
+## My First Section
+Content goes here...
+
+## My Second Section
+More content here...
 
 
 **Team:** No Fly Zone 
