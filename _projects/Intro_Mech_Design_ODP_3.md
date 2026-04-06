@@ -3,7 +3,7 @@ layout: project
 title: Client Outline and Pitch
 description:
 technologies: [MATLAB, python]
-image:
+image: "assets/images/slf_clipart.png"
 ---
 
 

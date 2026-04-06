@@ -8,11 +8,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Your Name
+title                    : Joshua Tchou's portfolio
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : Your Name
-description              : Your Name - Projects and CV 
+name                     : Joshua Tchou's portfolio
+description              : Your Name - Projects and CV
 baseurl                  : /fa25-portfolio-JoshuaTchou
 
 # Theme and Style
