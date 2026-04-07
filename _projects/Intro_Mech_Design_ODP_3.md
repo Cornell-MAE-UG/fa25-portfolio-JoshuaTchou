@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Client Outline and Pitch
+title: Intro to Mechanical Design Project
 description:
 technologies: [MATLAB, python]
 image: "assets/images/slf_clipart.png"
@@ -28,65 +28,41 @@ header-includes:
 
 ---
 
-## My First Section
-Content goes here...
-
-## My Second Section
-More content here...
-
 
 **Team:** No Fly Zone 
 **Client(s):** Cornell CALS Extension / E&J Gallo Winery / National Grape 
 
+# Client Pitch
 
-## Problem statement (most important)
-Problem Statement
-The spotted lantern fly (Lycorma delicatula), also known as SLFs, is an invasive species spreading prolifically throughout North America. SLFs feed on grapevines, decimating crop yield, and additionally impacting wine production. They are difficult to manage, and infestations impact both the growing season and harvesting. Economic losses to the grape industry in Finger Lakes AVA alone is estimated to reach $1.5 million in only the first year of infestation, with damages further doubling annually (1). As SLFs feed on grapevines, they draw nutrients from the plant and reduce the quality of grapes. Grapevines with high levels of infestation used 38% less water due to lower sap flow rates, exemplifying only one of the many avenues of ecological crisis (2). The SLFs also remain on grapevines during the harvesting process, contaminating the grapes and further decreasing yields. This product aims to reduce the population density of the SLFs from the vines during the growing period, without causing physical damage to the grapevines.
+## Problem statement
 
+The spotted lantern fly (SLF) is an invasive species in North America. Economic losses to the grape industry in Finger Lakes alone is estimated to reach $1.5 million in the first year of infestation, and double annually. Infested grapevines use 38% less water due to lower sap flow rates, leading to lower quality product. The SLFs also remain on grapevines during the harvesting process, contaminating the grapes and further decreasing yields. Currently, SLF removal is only done at harvest and product processing.
 
 ## Impact
-Impact
-If we can reduce the population of SLFs on the grapevines before harvest, not only can we improve the harvest yield but also improve the longevity of the grapevines itself. If we can reduce the number of SLFs in the vineyard, we can reduce their repopulation as well, ensuring more harvests can be processed instead of rejected due to regulations in production and vineyard preference.
 
+Passive SLF population control during the growing season will lower total vine damage, and limit the contamination levels for future SLF removal efforts during harvesting.
 
-Adult spotted lanternflies are the biggest threat to grapevines as they ingest the most plant sap, which reduces yield and damages the vines' health. Their feeding also produces sticky honeydew that promotes the growth of sooty mold, which reduces the photosynthetic capacity of the plant leaves and also affects the appearance of the grapevine (3).Targeting the SLFs before harvest also allows us to eliminate many of them before they can damage the vine.
+## Proposed direction: "The Lure"
 
+**What it is**: A device hung from a trellis; SLFs are first attracted, and then contained.
+**Minimum viable product / proof-of-concept**: A plastic bottle filled with wintergreen oil. A rubber valve would replace the cap and act as a one-way entrance.
+**Potential long term product**: A dual-attraction system of wintergreen oil and a 60hz speaker. A helical wall will rotate and guide SLFs down into a replaceable containment chamber.
 
+### Key risks / unknowns
 
-
-## Proposed direction(s)
-
-
-### Concept A: “The Lure”
-
-
-This is a device which can be hung from a trellis, containing a speaker emitting a 60hz “mating call”, and an area infused with an alluring wintergreen oil tincture. Once attracted, a helical wall will slowly guide SLF down into a replaceable capture chamber.
-Minimum viable product / proof-of-concept:
-A minimum viable product would contain a luring method, and a mechanism to trap attracted SLFs. In use this could consist of a plastic bottle filled with a small amount of wintergreen oil. A rubber valve, resembling that of a human heart valve, would replace the cap and act as a one-direction entrance.
-Potential long term product:
-A more complete product will lure more SLFs, and trap them better. To implement this, a dual-attraction system is used. A wintergreen-oil soaked sponge will encircle a 60hz speaker. These will be stationed at the bottom of the trap, so as to draw the SLFs down. Once inside the lure, a helical arm will rotate pushing the SLFs into the containment chamber. The product should also contain a method to remove the secured SLFs, and replace the containment chamber for further product use. The rotating arm and speaker can be powered by a small onboard solar cell.
-
-
-
-
-## Key risks / unknowns
-Risks
-Maintenance: The lure requires manual maintenance to remove the chamber with bugs, or if a component fails. It could require a lot of effort to service every lure in a large vineyard.
-- Cost: Grapevines are huge and grape farms span acres, so targeting every single grapevine with a prototype may become extremely expensive and also may include a lot of labor to implement on each vine.
-- Efficacy: If SLF is not attracted to our lure, it will be ineffective in reducing the number of SLF remaining on grapevines. This would require testing that is difficult to do in a classroom setting.
-- Maintenance: The lure requires manual maintenance to remove the chamber with bugs, or if a component fails. It could require a lot of effort to service every lure in a large vineyard.
-
+- Cost: Targeting every grapevine would require many lures, what does this add too and and how much is too much?
+- Efficacy: Testing how well lures attract is difficult in the classroom.
+- Maintenance: How to balance required manual labor and lure effectiveness.
 
 ## Questions for the client
-Focus on questions they can answer from lived experience.
+
 1. What financial investment would be available for the full-scale use of this product?
 2. How much labor would be available for maintaining this product?
-
+3. What level of attachment between a lure and the trellis is required to maintain integrity throughout the growing and harvesting seasons?
 
 ## References
 
-
-- <Source 1 (https://academic.oup.com/jipm/article/16/1/2/7964417?searchresult=1&login=true#521897831)>
-- <Source 2 (https://www.sciencedirect.com/science/article/pii/S0167880924004390)>
-- <Source 3 (https://academic.oup.com/jipm/article/16/1/2/7964417) >
-- <Source 4 (https://academic.oup.com/jee/article/115/6/2116/6777183) >
+- https://academic.oup.com/jipm/article/16/1/2/7964417?searchresult=1&login=true#521897831
+- https://www.sciencedirect.com/science/article/pii/S0167880924004390
+- https://academic.oup.com/jipm/article/16/1/2/7964417
+- https://academic.oup.com/jee/article/115/6/2116/6777183
