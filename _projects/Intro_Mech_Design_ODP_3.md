@@ -2,7 +2,6 @@
 layout: project
 title: Intro to Mechanical Design Project
 description:
-technologies: [MATLAB, python]
 image: "assets/images/slf_clipart.png"
 ---
 
@@ -69,3 +68,64 @@ Passive SLF population control during the growing season will lower total vine d
 - https://academic.oup.com/jee/article/115/6/2116/6777183
 
 # Functional Prototype
+
+## Purpose
+
+The purpose of creating a functional prototype is to evaluate the feasibility of our design, to discover if there are major flaws in the design during the assembly process, to evaluate the ease of assembly, and to evaluate the strengths and weaknesses of our design. If our prototype is able to be assembled, this will show that our design accounts for all the real world physical constraints in the assembly process.
+
+## Assembly process
+
+<figure style="text-align: center;">
+  <img src="{{ '/assets/images/odp/cross_section.png' | relative_url }}" alt="Cross section">
+  <figcaption><em>Cross section of the assembly</em></figcaption>
+</figure>
+
+<figure style="text-align: center;">
+  <img src="{{ '/assets/images/odp/pieces_1.jpg' | relative_url }}" alt="Parts">
+</figure>
+
+<figure style="text-align: center;">
+  <img src="{{ '/assets/images/odp/pieces_2.jpg' | relative_url }}" alt="Parts">
+</figure>
+
+<figure style="text-align: center;">
+  <img src="{{ '/assets/images/odp/pieces_3.jpg' | relative_url }}" alt="Parts">
+  <figcaption><em>The individual components of the assembly</em></figcaption>
+</figure>
+
+<figure style="text-align: center;">
+  <img src="{{ '/assets/images/odp/circuit.jpg' | relative_url }}" alt="The circuit">
+  <figcaption><em>The circuit used to control the motor</em></figcaption>
+</figure>
+
+<figure style="text-align: center;">
+  <img src="{{ '/assets/images/odp/assembled.jpg' | relative_url }}" alt="The assembled prototype">
+  <figcaption><em>The assembled prototype</em></figcaption>
+</figure>
+
+
+## Testing
+
+We designed 3 tests to evaluate the key feature of our design, which was the rotation of the rotor which serves as a rotating trap.
+
+### 1. Degree of rotation
+
+- How you tested it: Turning on the motor and spinning the rotor mechanism by hand, to make sure the top pieces and shaft are aligned, and to make sure that no interference between parts occurs during rotation.
+- What happened: The alignment is good and there is no interference. The trap can rotate by 360 degrees. The component, however, does not slide down fully due to the tape we used.
+- What design changes may be needed as a result: We connected the shaft to the motor with tape. The tape displaced where the components sat, and in the future we are going to glue the shaft to the motor.
+
+### 2. Minimum voltage on the motor for motion (with the rotor attached)
+
+- How you tested it: Attach the rotor to the motor, and measure the minimum voltage required for continuous motion and to start it.
+- What happened: For continuous motion, 1.74 V is required. To start rotation, 2.47 V is required.
+- What design changes may be needed as a result: This will inform how the arduino is programmed and confirms that our current battery setup (6V max) is sufficient.
+
+### 3. Minimum rotating speed
+
+- How you tested it: With the shaft and rotor components attached to the motor, measure the minimum sustained speed of the motor.
+- What happened: The minimum speed of the motor is 45 rpm.
+- What design changes may be needed as a result: We may buy a stepper motor since it can deliver slow, controlled rotation.
+
+## Outcome
+
+Overall, the assembly process showed that the tolerances on individual pieces of the 3D printed components were very good, and that they were within the capacity of the RPL to print. It also showed that our design was feasible, and we were able to achieve rotation and show that our design was easy to assemble. We also decided to replace our current motor with a stepper motor, in order to achieve a slower, more controlled rotational motion that is not possible with the motor we currently have.
