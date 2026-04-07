@@ -62,10 +62,10 @@ Passive SLF population control during the growing season will lower total vine d
 
 ## References
 
-- https://academic.oup.com/jipm/article/16/1/2/7964417?searchresult=1&login=true#521897831
-- https://www.sciencedirect.com/science/article/pii/S0167880924004390
-- https://academic.oup.com/jipm/article/16/1/2/7964417
-- https://academic.oup.com/jee/article/115/6/2116/6777183
+- [Reference 1](https://academic.oup.com/jipm/article/16/1/2/7964417?searchresult=1&login=true#521897831)
+- [Reference 2](https://www.sciencedirect.com/science/article/pii/S0167880924004390)
+- [Reference 3](https://academic.oup.com/jipm/article/16/1/2/7964417)
+- [Reference 4](https://academic.oup.com/jee/article/115/6/2116/6777183)
 
 # Functional Prototype
 
@@ -106,7 +106,7 @@ The purpose of creating a functional prototype is to evaluate the feasibility of
 
 ## Testing
 
-We designed 3 tests to evaluate the key feature of our design, which was the rotation of the rotor which serves as a rotating trap.
+We designed 3 tests to evaluate the ability of the motor to spin the rotating trap, which is the key element of our design which traps the spotted lanternflies.
 
 ### 1. Degree of rotation
 
