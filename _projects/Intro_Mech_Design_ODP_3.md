@@ -28,11 +28,10 @@ header-includes:
 
 ---
 
+# Client Pitch
 
 **Team:** No Fly Zone 
 **Client(s):** Cornell CALS Extension / E&J Gallo Winery / National Grape 
-
-# Client Pitch
 
 ## Problem statement
 
@@ -45,7 +44,9 @@ Passive SLF population control during the growing season will lower total vine d
 ## Proposed direction: "The Lure"
 
 **What it is**: A device hung from a trellis; SLFs are first attracted, and then contained.
+
 **Minimum viable product / proof-of-concept**: A plastic bottle filled with wintergreen oil. A rubber valve would replace the cap and act as a one-way entrance.
+
 **Potential long term product**: A dual-attraction system of wintergreen oil and a 60hz speaker. A helical wall will rotate and guide SLFs down into a replaceable containment chamber.
 
 ### Key risks / unknowns
@@ -66,3 +67,5 @@ Passive SLF population control during the growing season will lower total vine d
 - https://www.sciencedirect.com/science/article/pii/S0167880924004390
 - https://academic.oup.com/jipm/article/16/1/2/7964417
 - https://academic.oup.com/jee/article/115/6/2116/6777183
+
+# Functional Prototype
