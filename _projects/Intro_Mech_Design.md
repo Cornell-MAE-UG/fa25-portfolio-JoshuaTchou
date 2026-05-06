@@ -176,26 +176,26 @@ The second test was testing the minimum voltage on the motor to start and mainta
 Lastly, we tested the minimum rotating speed, which informed us on the choice of motor. The minimum rotating speed without stopping due to friction was 45 rpm, which was too fast for a spinning fly trap, and it could scare the lanternflies away. We decided to replace the motor with a different one that was able to rotate more slowly at 20 rpm and also required less power, which makes for smoother and more controlled operation.
 
 <figure style="text-align: center;">
-  <img src="{{ '/assets/images/odp/cross_section.png' | relative_url }}" alt="Cross section">
+  <img src="{{ '/assets/images/odp/cross_section.png' | relative_url }}" alt="Cross section" style="width: 70%>
   <figcaption><em>Fig 1: Cross-sectional diagram of the lure-and-trap prototype, showing key components including the shielding, SLF entryway, Arduino-driven rotating trap disk, quarantine tubes that keep bugs away from the motor, and the removable screw-in collection chamber.</em></figcaption>
 </figure>
 
 <figure style="text-align: center;">
-  <img src="{{ '/assets/images/odp/final_report_fig2.png' | relative_url }}" alt="Top-down view">
+  <img src="{{ '/assets/images/odp/final_report_fig2.png' | relative_url }}" alt="Top-down view" style="width: 70%>
   <figcaption><em>Fig 2: Top-down view of the rotating gate mechanism, showing the direction of rotation that forces spotted lanternflies down into the collection tubes.</em></figcaption>
 </figure>
 
 <figure style="text-align: center;">
-  <img src="{{ '/assets/images/odp/final_report_fig3.png' | relative_url }}" alt="Wiring diagram" style="width: 50%">
+  <img src="{{ '/assets/images/odp/final_report_fig3.png' | relative_url }}" alt="Wiring diagram" style="width: 70%">
 </figure>
 
 <figure style="text-align: center;">
-  <img src="{{ '/assets/images/odp/final_report_fig4.png' | relative_url }}" alt="Electrical schematic">
+  <img src="{{ '/assets/images/odp/final_report_fig4.png' | relative_url }}" alt="Electrical schematic" style="width: 70%>
   <figcaption><em>Figs 3 & 4: Electrical schematic and Arduino writing diagram for the motor control system, controlled by a slide switch and powered by 4x AA batteries</em></figcaption>
 </figure>
 
 <figure style="text-align: center;">
-  <img src="{{ '/assets/images/odp/final_report_fig5.jpg' | relative_url }}" alt="Final prototype">
+  <img src="{{ '/assets/images/odp/final_report_fig5.jpg' | relative_url }}" alt="Final prototype" style="width: 70%>
   <figcaption><em>Fig 5: Final Prototype</em></figcaption>
 </figure>
 
