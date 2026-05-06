@@ -193,7 +193,38 @@ Fig 6: Final Prototype
 ## References
 
 ### Bill of Materials:
-Link to full spreadsheet
+[Link to full spreadsheet](https://docs.google.com/spreadsheets/d/16uwDL93W0Ph_2rDUHpTFeSXxPhX5ICIhDJ4LlQW6VzM/edit?usp=sharing)
+
+| Item name | Price | Quantity |
+| :---: | :---: | :---: |
+| Drive shaft | $1.15 | 1 |
+| Casing (RPL) | $19.32 | 1 |
+| Rotor Disc 1 (RPL) | $1.93 | 1 |
+| Stator Disc (RPL) | $2.85 | 1 |
+| Rotors (RPL) | $0.31 | 1 |
+| Stators (RPL) | $0.31 | 1 |
+| Component 11 (RPL) | $0.90 | 1 |
+| Component 12 (RPL) | $3.43 | 1 |
+| Component 13 (RPL) | $4.34 | 1 |
+| Component 14 (RPL) | $5.66 | 1 |
+| Component 16 (RPL) | $6.74 | 1 |
+| Component 18 (RPL) | $0.88 | 1 |
+| Geared DC Motor 6V | $8.29 | 1 |
+| Arduino Uno R3 | $27.60 | 1 |
+| NPN Transistor (BJT) | $8.99 | 1 |
+| Battery (VL, 4xAA) | Provided | 1 |
+| Battery (Vs, 1x9V) | $6.46 | 1 |
+| Resistor Variety Pack | $4.99 | 1 |
+| Wires and heat shrink tubing | $11.99 | 1 |
+| Female/Male Header Crimps | $9.69 | 1 |
+| Slide Switch | $4.99 | 1 |
+| Wintergreen oil | $7.99 | 1 |
+| Sponge | $2.99 | 1 |
+| Green LED | $5.99 | 1 |
+| 9V barrel jack | $3.97 | 1 |
+| Diode | $4.03 | 1 |
+
+Total $155.79
 
 ### Citations:
 Pinto, Allan F, et al. “Assessing the Potential Economic Impacts of Spotted Lanternfly (Hemiptera: Fulgoridae) Infestations on Grape Production in New York State.” Journal of Integrated Pest Management, vol. 16, no. 1, 1 Jan. 2025, academic.oup.com/jipm/article/16/1/2/7964417, https://doi.org/10.1093/jipm/pmae039. Accessed 16 Feb. 2025.
