@@ -175,20 +175,29 @@ As we were focused on scalability, we wanted our 3D printed components to be int
 The second test was testing the minimum voltage on the motor to start and maintain rotation, which was 2.47 V and 1.74 V respectively. This was within the capability of our 6V battery pack, and meant that we could keep the battery as is. We wanted to use as lightweight and compact a battery pack as possible, which relates to our first success criterion. Additionally, the batteries we chose for longevity (4x AA), and after current calculations, can last approximately six days (fulfilling our third success criterion of lasting for 24 hours).
 Lastly, we tested the minimum rotating speed, which informed us on the choice of motor. The minimum rotating speed without stopping due to friction was 45 rpm, which was too fast for a spinning fly trap, and it could scare the lanternflies away. We decided to replace the motor with a different one that was able to rotate more slowly at 20 rpm and also required less power, which makes for smoother and more controlled operation.
 
+<figure style="text-align: center;">
+  <img src="{{ '/assets/images/odp/cross_section.png' | relative_url }}" alt="Cross section">
+  <figcaption><em>Fig 1: Cross-sectional diagram of the lure-and-trap prototype, showing key components including the shielding, SLF entryway, Arduino-driven rotating trap disk, quarantine tubes that keep bugs away from the motor, and the removable screw-in collection chamber.</em></figcaption>
+</figure>
 
+<figure style="text-align: center;">
+  <img src="{{ '/assets/images/odp/final_report_fig2.png' | relative_url }}" alt="Top-down view">
+  <figcaption><em>Fig 2: Top-down view of the rotating gate mechanism, showing the direction of rotation that forces spotted lanternflies down into the collection tubes.</em></figcaption>
+</figure>
 
-Fig 1: Cross-sectional diagram of the lure-and-trap prototype, showing key components including the shielding, SLF entryway, Arduino-driven rotating trap disk, quarantine tubes that keep bugs away from the motor, and the removable screw-in collection chamber.
+<figure style="text-align: center;">
+  <img src="{{ '/assets/images/odp/final_report_fig3.png' | relative_url }}" alt="Wiring diagram">
+</figure>
 
+<figure style="text-align: center;">
+  <img src="{{ '/assets/images/odp/final_report_fig4.png' | relative_url }}" alt="Electrical schematic">
+  <figcaption><em>Figs 3 & 4: Electrical schematic and Arduino writing diagram for the motor control system, controlled by a slide switch and powered by 4x AA batteries</em></figcaption>
+</figure>
 
-Fig 2: Top-down view of the rotating gate mechanism, showing the direction of rotation that forces spotted lanternflies down into the collection tubes.
-
-
-
-Fig 4 & 5: Electrical schematic and Arduino writing diagram for the motor control system, controlled by a slide switch and powered by 4x AA batteries
-
-
-Fig 6: Final Prototype
-
+<figure style="text-align: center;">
+  <img src="{{ '/assets/images/odp/final_report_fig5.jpg' | relative_url }}" alt="Final prototype">
+  <figcaption><em>Fig 5: Final Prototype</em></figcaption>
+</figure>
 
 ## References
 
