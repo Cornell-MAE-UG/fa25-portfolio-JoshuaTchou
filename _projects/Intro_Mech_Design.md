@@ -186,7 +186,7 @@ Lastly, we tested the minimum rotating speed, which informed us on the choice of
 </figure>
 
 <figure style="text-align: center;">
-  <img src="{{ '/assets/images/odp/final_report_fig3.png' | relative_url }}" alt="Wiring diagram">
+  <img src="{{ '/assets/images/odp/final_report_fig3.png' | relative_url }}" alt="Wiring diagram" style="width: 50%">
 </figure>
 
 <figure style="text-align: center;">
